@@ -1,118 +1,86 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Stephen Pham",
+    "label": "Cloud Engineer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "stepham10@gmail.com",
+    "phone": "(281)768-1766",
+    "url": "https://stepham10.github.io/stephen-pham-portfolio.github.io/",
+    "summary": "Hello! My name is Stephen Pham, and technology is my true passion. Specifically, I'm fascinated by the vast realm of cloud computing within the technology industry. To bolster my expertise, I've achieved the Microsoft Azure Fundamentals certification and the Microsoft Certified: Azure Administrator Associate certification providing me with a solid foundation in cloud computing. Additionally, I hold the CompTIA Network+ certification, granting me insights into the intricacies of networking. My goal is to forge a career in the cloud computing sector, leveraging my skills to help digitally transform businesses through technology. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "11 Colton Trails Dr.",
+      "postalCode": "TX 77479",
+      "city": "Sugar Land",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": "LinkedIn",
+      "username": "Stephen Pham",
+      "url": "www.linkedin.com/in/stephenhoangthaipham"
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
+    "name": "Fluor Corporation",
+    "position": "Project Manager - Information Specalist I",
+    "url": "https://www.fluor.com/",
+    "startDate": "2013-17-07",
+    "endDate": "Present",
+    "summary": "Led the migration of a nuclear power project to the energy solutions branch, managed daily operations for 150+ users, and directed the implementation of client-mandated systems, saving $5 million in operating costs and enhancing workflow efficiency.",
   }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
+
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "University of Houston",
+    "url": "https://www.uh.edu/",
+    "area": "Hospitality Management",
+    "studyType": "Bachelor of Science",
+    "startDate": "2019-26-08",
+    "endDate": "2023-15-05",
+    "score": "3.7",
+  
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
+  "certifications": [{
+    "name": "Microsoft Azure Administrator Associate Certification",
+    "date": "2024-15-05",
+    "issuer": "Microsoft",
     "url": "https://certificate.com"
   }],
   "publications": [{
     "name": "Publication",
     "publisher": "Company",
     "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification",
+    "summary": "The certification focuses on implementing, managing, and monitoring Azure environments, requiring expertise in virtual networks, storage, compute, identity, security, and governance, with skills in Azure CLI, PowerShell, Azure Resource Manager, and Microsoft Entra ID, while also managing Azure identities, storage, compute resources, and virtual networking."
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Azure",
+    "level": "intermidiate",
     "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
+      "Vitrual Network",
+      "Storage",
+      "Compute",
+      "Identity",
+      "Security",
+      "Governace" ]
   }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+  
   }],
   "projects": [{
-    "name": "Project",
-    "description": "Description…",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
+    "name": "Azure Static Resume (Cloud Project)",
+    "description": "Developed a static resume website using Azure Blob Storage, configured Azure CDN for custom domain support with HTTPS, implemented CI/CD with GitHub Actions, and integrated an Azure Function with Cosmos DB for visitor counter data.",
     "keywords": [
-      "HTML"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Azure Blob Storage",
+      "Azure Functions",
+      "Azure Cosmos DB",
+      "Azure CDN",
+      "GitHub Actions"
     ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
-    "roles": [
-      "Team Lead"
-    ],
-    "entity": "Entity",
-    "type": "application"
+    "url": "https://www.stephenpham.me/"
   }]
 }
